@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on a base building game on unreal engine 5
+
+
+
 <!--
 **menice4/menice4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
