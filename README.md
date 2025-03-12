@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 😄 Pronouns: he/him/they/them
-- 🔭 I’m currently working on a base building game on unreal engine 5
-- 🌱 Javascript
+- 
+- 🌱 Javascript, Trypescript , CSS, fullstack develepment
 
 
 
